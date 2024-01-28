@@ -3,7 +3,7 @@
 - 🤖 AI and Data Science Enthusiast 💻
 - 🔭 IT analyst at Stefanini
 - 🌱 Always learning new things
-- 🎓 - Analysis and systems development - FATEC 
+- 🎓 Analysis and systems development - FATEC 
 
 ## Technologies
 

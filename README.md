@@ -1,7 +1,7 @@
 ### Hi there, I'm Ryan 👋 🇧🇷
 
-- 🤖 AI and Data Science Enthusiast 💻
-- 🔭 IT analyst at Stefanini
+- 🤖 Information Security and Data Science Enthusiast 💻
+- 🔭 Network Security Analyst at Danresa
 - 🌱 Always learning new things
 - 🎓 Analysis and systems development - FATEC 
 
